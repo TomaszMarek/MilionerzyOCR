@@ -23,6 +23,7 @@ Zestawienie rozpoznanych pozycji z podziałem na edycje TVN / Polsat, statusem w
 ### 3. Weryfikacja i edycja rekordu
 Okno edycji z bezpośrednim podglądem zapisanej klatki wideo, umożliwiające szybką korektę tekstu OCR, zmianę stacji oraz oznaczenie poprawnej litery.
 ![Okno edycji pytania](assets/MilionerzyEdycjaPytania.png)
+---
 
 ## Co robi ten program?
 
